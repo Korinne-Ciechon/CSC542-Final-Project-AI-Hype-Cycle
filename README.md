@@ -23,7 +23,7 @@ By combining YouTube metadata with **Germini 2.5 Flash Lite** for feature extrac
  
 ## How to Run
 1. **Data Processing:** The Python notebooks in /scr/colab are designed for Google Colab. They require a YouTube Data API v3 key and a Google AI Studio (Gemini) API key.
-2. **Statistical Analysis:** The R script requires the tidyverse, caret, e1071, and randomForest libraries.
+2. **Statistical Analysis:** The R script requires the tidyverse, cluster, MASS, class, tree, randomForest, corrplot, gridExtra, ggpubr libraries.
 
 ## Authors
 - Yoomee Shin
