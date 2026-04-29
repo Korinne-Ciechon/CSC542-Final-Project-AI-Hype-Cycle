@@ -18,8 +18,8 @@ By combining YouTube metadata with **Germini 2.5 Flash Lite** for feature extrac
   - youtube_hype_all_aggregated.csv: The primary aggregated dataset used for R analysis.
   - raw/: Sub-folder containing the 1,264 individual video records and original API pulls.
 - /scr:
-  - Hype_Cycle_Analysis.R: The final R script used for statistical testing, PCA visualization, and training the 92.3% accurate SVM model.
-  - colab/: Sub-folder of the python script for YouTube API data acquisition and python script for LLM feature extraction and window-based aggregation.
+  - analysis/Hype_Cycle_Analysis.R: The final R script used for statistical testing, PCA visualization, and training the 92.3% accurate SVM model.
+  - data_scraping/: Sub-folder of the python script for YouTube API data acquisition and python script for LLM feature extraction and window-based aggregation.
  
 ## How to Run
 1. **Data Processing:** The Python notebooks in /scr/colab are designed for Google Colab. They require a YouTube Data API v3 key and a Google AI Studio (Gemini) API key.
