@@ -12,8 +12,8 @@ By combining YouTube metadata with **Germini 2.5 Flash Lite** for feature extrac
 
 ## Repository Structure
 - /docs:
- -  CSC_542_Final_Report.pdf: The complete academic paper.
- - Presentation_slides.pdf: Visual summary of the project.
+  - CSC_542_Final_Report.pdf: The complete academic paper.
+  - Presentation_slides.pdf: Visual summary of the project.
 - /data:
   - youtube_hype_all_aggregated.csv: The primary aggregated dataset used for R analysis.
   - raw/: Sub-folder containing the 1,264 individual video records and original API pulls.
